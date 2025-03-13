@@ -16,7 +16,7 @@ new class extends Component
                 'user_id' => Auth::id(),
             ]);
 
-            $this->task = ''; // Reset input
+            $this->task = ''; 
         }
     }
 

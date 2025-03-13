@@ -29,7 +29,7 @@
                     <main class="mt-6">
                         <div class="flex min-h-screen items-center justify-center bg-gray-100 px-6">
                             <div class="max-w-5xl text-center">
-                                <!-- Hero Section -->
+
                                 <h1 class="text-xl sm:text-xl font-bold text-gray-900">
                                     Organize. Track. Achieve.
                                 </h1>
@@ -37,7 +37,7 @@
                                     Stay on top of your tasks and boost your productivity with our smart task manager.
                                 </p>
                         
-                                <!-- Features Section -->
+
                                 <div class="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-8">
                                     <!-- Feature 1 -->
                                     <div class="p-6 bg-white shadow-lg rounded-lg transition-transform transform hover:scale-105">
@@ -46,14 +46,14 @@
                                         <p class="mt-2 text-lg text-gray-600">Plan your tasks efficiently with intuitive scheduling.</p>
                                     </div>
                         
-                                    <!-- Feature 2 -->
+
                                     <div class="p-6 bg-white shadow-lg rounded-lg transition-transform transform hover:scale-105">
                                         <div class="text-4xl text-green-500">✅</div>
                                         <h3 class="mt-4 text-2xl font-semibold">Easy Progress Tracking</h3>
                                         <p class="mt-2 text-lg text-gray-600">Stay updated on task progress and deadlines.</p>
                                     </div>
                         
-                                    <!-- Feature 3 -->
+
                                     <div class="p-6 bg-white shadow-lg rounded-lg transition-transform transform hover:scale-105">
                                         <div class="text-4xl text-yellow-500">📊</div>
                                         <h3 class="mt-4 text-2xl font-semibold">Insightful Analytics</h3>
